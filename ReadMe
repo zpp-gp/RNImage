@@ -1,0 +1,21 @@
+1 用于图片超过一个屏幕的高度,自适应扩展.
+Image component for React native
+
+##Installation:
+
+Install the component through npm using:
+
+```
+npm install RNImage --save
+```
+
+
+##Example:
+```js
+import RNImage from 'RNImage';
+
+<RNImage
+  url='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491735215146&di=99ab68581d74d4e789ecd645ef625d38&imgtype=0&src=http%3A%2F%2Fpic22.nipic.com%2F20120719%2F7572587_150744164106_2.jpg'
+/>
+```
+
